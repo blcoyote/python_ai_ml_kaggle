@@ -194,7 +194,7 @@ python src/main.py
 05_submission_prediction_generation.ipynb # Final predictions
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Core ML Libraries
 
