@@ -67,7 +67,7 @@ This framework is designed to:
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12 or higher
 - Git (for version control)
 - Virtual environment tool (venv, conda, etc.)
 
